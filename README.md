@@ -18,7 +18,7 @@ This is a simple implementation of the classic Snake game created using Python a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/your-username/snake-game.git](https://github.com/AliHamza-lab/SNAKKE_GAME.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -26,7 +26,7 @@ This is a simple implementation of the classic Snake game created using Python a
    ```
 3. Run the game:
    ```bash
-   python snake_game.py
+   python main.py
    ```
 
 ## Requirements
